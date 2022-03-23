@@ -89,6 +89,9 @@
     background-color: #dcdbdb;
 }
 
+.hello{
+    color: blue;
+}
 @media(max-width:991px){
     .Logo{
         width: 50%;
